@@ -1,9 +1,11 @@
 README — SESSMO Model: Policy options under climate change
 Version 1.0 (March 16, 2026)
+Version 1.1 (May, 2026)
+Version 1.2 (August 20, 2026)
 
 Tenza-Peral, A., Pérez-Ibarra, I., Martínez-Fernández, J., Breceda, A. & Giménez, A.
 
-Associated publication: Tenza-Peral et al. (2026). When the best becomes the enemy of the good: Rethinking resilience strategies under uncertainty.
+Associated publication: Tenza-Peral et al. (2026). Prioritizing best average outcomes leaves the most vulnerable exposed under climate uncertainty.
 
 --------------------------------------------------------------------------------
 
@@ -15,17 +17,17 @@ To run this model you need Vensim Model Reader (version 10.x or higher), which i
 
 FILES INCLUDED
 
-- SESSMO_Policy options under climate change.vpmx — Main model file (open this first)
-- EXTERNAL_DATA.vdfx — External variables data (must always be loaded)
-- TREND_CLIMATE.vdfx — Trend precipitation scenario
-- rcp85_FAVORABLE_CLIMATE_n.vdfx — Favorable climate scenario under RCP8.5 (15 series)
-- rcp85_UNFAVORABLE_CLIMATE_n.vdfx — Unfavorable climate scenario under RCP8.5 (15 series)
-- rcp45_favorable_scenario_n.vdfx — Favorable climate scenario under RCP4.5 (15 series)
-- rcp45_favorable_scenario_n.vdfx — Unfavorable climate scenario under RCP4.5 (15 series)
+- SESSMO_Policy options under climate change.vpmx — Main model file (open this first).
+- EXTERNAL_DATA.vdfx — External variables data (must always be loaded).
+- TREND_CLIMATE.vdfx — Trend precipitation scenario.
+- rcp85_FAVORABLE_CLIMATE_n.vdfx — Favorable climate scenario under RCP8.5 (15 series).
+- rcp85_UNFAVORABLE_CLIMATE_n.vdfx — Unfavorable climate scenario under RCP8.5 (15 series).
+- rcp45_favorable_scenario_n.vdfx — Favorable climate scenario under RCP4.5 (15 series).
+- rcp45_favorable_scenario_n.vdfx — Unfavorable climate scenario under RCP4.5 (15 series).
 - rcp85_simulation-results.xlsx — Consolidated simulation outputs (population, livestock, 
-  employment, and TNPV in USD) for all policy options and climate scenarios under RCP8.5
+  employment, and TNPV in USD) for all policy options and climate scenarios under RCP8.5.
 - rcp45_simulation-results.xlsx — Consolidated simulation outputs (population, livestock, 
-  employment, and TNPV in USD) for all policy options and climate scenarios under RCP4.5
+  employment, and TNPV in USD) for all policy options and climate scenarios under RCP4.5.
 --------------------------------------------------------------------------------
 
 HOW DOES IT WORK?
