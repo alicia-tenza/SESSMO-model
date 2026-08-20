@@ -18,9 +18,14 @@ FILES INCLUDED
 - SESSMO_Policy options under climate change.vpmx — Main model file (open this first)
 - EXTERNAL_DATA.vdfx — External variables data (must always be loaded)
 - TREND_CLIMATE.vdfx — Trend precipitation scenario
-- FAVORABLE_CLIMATE_n.vdfx — Favorable climate scenario (15 series)
-- UNFAVORABLE_CLIMATE_n.vdfx — Unfavorable climate scenario (15 series)
-
+- rcp85_FAVORABLE_CLIMATE_n.vdfx — Favorable climate scenario under RCP8.5 (15 series)
+- rcp85_UNFAVORABLE_CLIMATE_n.vdfx — Unfavorable climate scenario under RCP8.5 (15 series)
+- rcp45_favorable_scenario_n.vdfx — Favorable climate scenario under RCP4.5 (15 series)
+- rcp45_favorable_scenario_n.vdfx — Unfavorable climate scenario under RCP4.5 (15 series)
+- rcp85_simulation-results.xlsx — Consolidated simulation outputs (population, livestock, 
+  employment, and TNPV in USD) for all policy options and climate scenarios under RCP8.5
+- rcp45_simulation-results.xlsx — Consolidated simulation outputs (population, livestock, 
+  employment, and TNPV in USD) for all policy options and climate scenarios under RCP4.5
 --------------------------------------------------------------------------------
 
 HOW DOES IT WORK?
