@@ -1,6 +1,6 @@
 README — SESSMO Model: Policy options under climate change
 Version 1.0 (March 16, 2026)
-Version 1.1 (May, 2026)
+Version 1.1 (June 19, 2026)
 Version 1.2 (August 20, 2026)
 
 Tenza-Peral, A., Pérez-Ibarra, I., Martínez-Fernández, J., Breceda, A. & Giménez, A.
